@@ -15,3 +15,5 @@ TomlDecoder = decoder.TomlDecoder
 
 dump = encoder.dump
 dumps = encoder.dumps
+TomlEncoder = encoder.TomlEncoder
+TomlArraySeparatorEncoder = encoder.TomlArraySeparatorEncoder
